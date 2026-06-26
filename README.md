@@ -13,6 +13,7 @@ Honestly, no big reason. I had some free time, was kinda bored, had nothing bett
 | [`tersedev`](./tersedev) | Lazy-senior-developer persona — minimal code, terse prose, test-driven workflow for non-trivial work. See its own README for details and credits. |
 | [`grillmap`](./grillmap) | Three-phase skill: relentless interview to sharpen a plan or project (writing `CONTEXT.md`/`docs/adr/` along the way), a lightweight knowledge graph built from what the interview surfaced, then a human-readable overview synthesizing both. See its own README for details and credits. |
 | [`api-docs`](./api-docs) | Generate and keep API documentation in sync from any language or framework — produces Markdown reference docs and an OpenAPI 3.1 YAML spec. See its own README for details. |
+| [`explainfn`](./explainfn) | Adds a brief, complexity-scaled comment above functions, in each language's native doc-comment format. Skips self-explanatory functions by default, documents everything when explicitly asked, fixes stale comments instead of leaving them. See its own README for details. |
 
 More skills may be added here over time as I build out other personal-workflow behaviors — this repo is just my personal shelf for these, not a themed collection.
 
